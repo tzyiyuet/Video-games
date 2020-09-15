@@ -3,7 +3,7 @@ This project compares the significant criteria to be a good paid PC game and to 
 
 The table of contents is created as the following:
 1. Introduction https://github.com/tzyiyuet/video-games/blob/master/1.introduction.md
-2. Data Description
+2. Data Description https://github.com/tzyiyuet/video-games/blob/master/2.Data_Description.md
 3. Models Presentation
 4. Results of Comparisons
 5. Conclusion & Limitations
