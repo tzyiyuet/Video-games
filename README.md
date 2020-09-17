@@ -6,4 +6,4 @@ The table of contents is created as the following:
 2. Data Description https://github.com/tzyiyuet/video-games/blob/master/2.%20data_description.md
 3. Models Presentation https://github.com/tzyiyuet/video-games/blob/master/3.%20models_presentation.md
 4. Results from Comparisons https://github.com/tzyiyuet/video-games/blob/master/4.%20results%20from%20comparisons.md
-5. Conclusion & Limitations
+5. Conclusion & Limitations https://github.com/tzyiyuet/video-games/blob/master/5.%20conclusions_and_limitations.md
