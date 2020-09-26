@@ -7,3 +7,6 @@ The table of contents is created as the following:
 3. Models Presentation https://github.com/tzyiyuet/video-games/blob/master/3.%20models_presentation.md
 4. Results from Comparisons https://github.com/tzyiyuet/video-games/blob/master/4.%20results%20from%20comparisons.md
 5. Conclusion & Limitations https://github.com/tzyiyuet/video-games/blob/master/5.%20conclusions_and_limitations.md
+
+The Code of the project can be found on https://github.com/tzyiyuet/video_games/blob/master/video_games.R
+
